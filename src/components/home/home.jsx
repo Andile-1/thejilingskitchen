@@ -4,7 +4,7 @@ import FavouriteFoods from "../favouritefoods/favouritefoods";
 import Hero from "../hero/hero";
 import classes from "./home.module.css";
 
-const Home = () => {
+const home = () => {
   return (
     <div>
       <Hero />
@@ -14,4 +14,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default home;
