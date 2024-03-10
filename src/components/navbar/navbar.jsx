@@ -8,7 +8,7 @@ const navbar = () => {
     <div className={classes.container}>
       <div className={classes.wrapper}>
         <Link to="/" className={classes.left}>
-          WebDevMania
+          KitchenLovers
         </Link>
         <ul className={classes.center}>
           <li className={classes.listItem}>Home</li>
