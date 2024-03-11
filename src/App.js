@@ -5,7 +5,6 @@ import { Routes, Route } from "react-router-dom";
 import RecipeDetails from "./components/recipeDetails/recipeDetails";
 import Home from "./components/home/home";
 
-const root = ReactDom.createRoot(document.getElementById("root"));
 function App() {
   return (
     <div>
