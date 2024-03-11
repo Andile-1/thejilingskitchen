@@ -43,13 +43,10 @@ const hero = () => {
     <div className={classes.container}>
       <div className={classes.wrapper}>
         <div className={classes.left}>
-          <h2>
-            Craving some <br />
-            delicious meals
-          </h2>
-          <h5>Feeling the cooking vibe</h5>
+          <h2>Foodie-Paradise</h2>
+          <h5> Unleash your cravings </h5>
           <p className={classes.firstDesc}>
-            You've come to the right place for some tasty recipes
+            Delightfully delicious recipes for you
           </p>
           <p className={classes.secondDesc}>Just see what we have for you</p>
           <div className={classes.buttons}>

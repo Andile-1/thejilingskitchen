@@ -19,7 +19,7 @@
 
 .left > h2 {
   margin-bottom: 2rem;
-  color: #8b8000;
+  color: #89cff0;
   font-size: 44px;
   font-weight: bold;
   line-height: 58px;
@@ -30,7 +30,7 @@
   letter-spacing: 1.5px;
   margin-top: 1rem;
   margin-bottom: 3rem;
-  color: #8b8000;
+  color: #0096ff;
   font-size: 32px;
   font-weight: bold;
 }
@@ -40,7 +40,7 @@
   font-size: 22px;
   font-weight: 500;
   margin-bottom: 1.5rem;
-  color: #fdda0d;
+  color: #89cff0;
 }
 
 .secondDesc {
@@ -65,7 +65,7 @@
 }
 
 .buttons > button:first-child {
-  background-color: #8b8000;
+  background-color: #89cff0;
   color: #fff;
   border-radius: 5px;
   font-size: 17px;
@@ -78,14 +78,14 @@
 }
 
 .buttons > button:last-child {
-  color: #8b8000;
+  color: #89cff0;
   background-color: #efefef;
   border-radius: 5px;
   font-size: 17px;
 }
 
 .buttons > button:last-child:hover {
-  background-color: #8b8000;
+  background-color: #89cff0;
   color: #fff;
 }
 
